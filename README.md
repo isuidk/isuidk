@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Siju
 - 👀 I’m interested in Cybersecurity and Computer Networking, along with Problem solving
 - 🌱 I’m currently learning Undergrad Computer Science in MAHE Dubai
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
 
 
 <!---
